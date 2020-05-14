@@ -1,0 +1,9 @@
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\bin\Debug\TinyTines.exe.config
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\bin\Debug\TinyTines.exe
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\bin\Debug\TinyTines.pdb
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\obj\Debug\TinyTines.csproj.CopyComplete
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\obj\Debug\TinyTines.exe
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\obj\Debug\TinyTines.pdb
+C:\Users\choug\Desktop\Project Exercise\TinyTines\TinyTines\obj\Debug\TinyTines.csprojAssemblyReference.cache
